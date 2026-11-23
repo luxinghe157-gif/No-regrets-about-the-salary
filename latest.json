@@ -1,0 +1,5 @@
+{
+  "version": "4.0.7",
+  "notes": "开启加班费后，加班费（单价 × 预计加班时长）计入当日总收入，状态栏同步展示加班费明细。",
+  "url": "https://github.com/luxinghe157-gif/No-regrets-about-the-salary/releases/latest"
+}
