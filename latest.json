@@ -1,10 +1,10 @@
 {
   "version": "4.0.9",
-  "notes": "修复开启午休不计薪、但午休排在上班时段之前时，上班头一段时间入账被误算为 0 的问题；午休只扣真正落在班内的时长。",
+  "notes": "修复两处问题：1）开启午休不计薪、但午休排在上班时段之前时，上班头一段时间入账被误算为 0，午休只扣真正落在班内的时长；2）更新提示弹窗弹出后按钮点不动，卡片弹出期间已正确解除鼠标穿透。",
   "url": "https://github.com/luxinghe157-gif/No-regrets-about-the-salary/releases/latest",
   "download": {
     "url": "https://github.com/luxinghe157-gif/No-regrets-about-the-salary/releases/download/v4.0.9/%E6%A1%8C%E9%9D%A2%E5%AE%A0%E7%89%A9-V4.0.9.exe",
     "name": "桌面宠物-V4.0.9.exe",
-    "size": 98847171
+    "size": 98844239
   }
 }
