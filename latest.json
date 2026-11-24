@@ -1,5 +1,10 @@
 {
-  "version": "4.0.7",
-  "notes": "开启加班费后，加班费（单价 × 预计加班时长）计入当日总收入，状态栏同步展示加班费明细。",
-  "url": "https://github.com/luxinghe157-gif/No-regrets-about-the-salary/releases/latest"
+  "version": "4.0.8",
+  "notes": "更新提醒可选择是否更新；确认后自动下载更新包并替换重启，暂不更新下次启动再提醒。",
+  "url": "https://github.com/luxinghe157-gif/No-regrets-about-the-salary/releases/latest",
+  "download": {
+    "url": "https://github.com/luxinghe157-gif/No-regrets-about-the-salary/releases/download/v4.0.8/%E6%A1%8C%E9%9D%A2%E5%AE%A0%E7%89%A9-V4.0.8.exe",
+    "name": "桌面宠物-V4.0.8.exe",
+    "size": 98841564
+  }
 }
