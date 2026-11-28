@@ -1,10 +1,10 @@
 {
-  "version": "4.2.1",
-  "notes": "1）女职员宠物更名为「职业女神」，新增「空中女神」「私人护士」两套皮肤（兑换码解锁），装备私人护士时不定时鸡汤气泡会说出专属台词；2）设置-关于新增匿名调查问卷二维码窗格，扫码填写问卷得好礼；3）千仞雪新增兑换码提前解锁方式，提前解锁后签到满 15 天的里程碑将随机赠送一套其他宠物皮肤（空中女神、私人护士除外）；4）未解锁千仞雪时兑换神圣天使皮肤会弹窗提示当前宠物未解锁、无法兑换。",
+  "version": "4.2.2",
+  "notes": "1）彻底修复更新后弹出黑色命令窗口、需要手动按 Ctrl+C 才能完成的问题：现在全程静默自动替换并重启，无需任何手动操作；2）修复下载/覆盖后安装包文件名乱码、版本号仍显示旧版本的问题：更新后文件名自动变为新版本号，并同步修复桌面、开始菜单与开机启动快捷方式；3）替换过程增加旧进程可靠退出、覆盖重试、文件大小校验与失败自动回滚，失败时弹出明确提示并保留安装包，不再卡死。",
   "url": "https://github.com/luxinghe157-gif/No-regrets-about-the-salary/releases/latest",
   "download": {
-    "url": "https://github.com/luxinghe157-gif/No-regrets-about-the-salary/releases/download/v4.2.1/-V4.2.1.exe",
-    "name": "桌面宠物-V4.2.1.exe",
-    "size": 100063997
+    "url": "https://github.com/luxinghe157-gif/No-regrets-about-the-salary/releases/download/v4.2.2/wenxinwukui-V4.2.2.exe",
+    "name": "桌面宠物-V4.2.2.exe",
+    "size": 100073098
   }
 }
